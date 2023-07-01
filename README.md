@@ -6,15 +6,15 @@
 <h4 align="center">
     Itamar Nierenberg:
   
-  <a href="https://www.linkedin.com/in/itamar-nierenberg-1406261b9/"><img src="./Project/images/LinkedInLogo.png" width="120" height="40"/></a>
-    <a href="https://github.com/itamarnierenberg"><img src="./Project/images/GitHubLogo.png" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/itamar-nierenberg-1406261b9/"><img src="./images/LinkedInLogo.png" width="120" height="40"/></a>
+    <a href="https://github.com/itamarnierenberg"><img src="./images/GitHubLogo.png" width="40" height="40"/></a>
 </a>
 
 <h4 align="center">
     Nir Elfasi:
   
-  <a href="https://www.linkedin.com/in/nir-elfasi-a6a65a281/"><img src="./Project/images/LinkedInLogo.png" width="120" height="40"/></a>
-    <a href="https://github.com/nirelfasi"><img src="./Project/images/GitHubLogo.png" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/nir-elfasi-a6a65a281/"><img src="./images/LinkedInLogo.png" width="120" height="40"/></a>
+    <a href="https://github.com/nirelfasi"><img src="./images/GitHubLogo.png" width="40" height="40"/></a>
 </a>
 
 This project is using the FER-2013 dataset without any extra training samples and without uniting any classes. we tried to achieve high accuracy for this data set using CNN architectures and data augmentations.
