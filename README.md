@@ -1,7 +1,7 @@
 <h2 align="center">Technion's Deep Learning (046211) Project
 </h2> 
 <p align="center">
-<img src="./Project/images/ProjectHeader.png" width="800" height="300" />
+<img src="images/ProjectHeader.png" width="800" height="300" />
   </p>
 <h4 align="center">
     Itamar Nierenberg:
@@ -66,7 +66,7 @@ Number of examples per label:
 
 An example of images from the dataset:
 
-<img src="./Project/ViTModel/DataSample.png" width="300" height="300" />
+<img src="ViTModel/DataSample.png" width="300" height="300" />
 
 
 ## Augmentations
@@ -90,28 +90,28 @@ For this classification task we trained a few different models to perform the ta
 
 ### ViT
 <p float="left">
-  <img src="./Project/ViTModel/plot.png" width="300" height="300" />
-  <img src="./Project/ViTModel/ConfusionMatrix.png" width="300" height="300" /> 
+  <img src="ViTModel/plot.png" width="300" height="300" />
+  <img src="ViTModel/ConfusionMatrix.png" width="300" height="300" /> 
 </p>
 
 ### ResNet18
 <p float="left">
-  <img src="./Project/ResNet18Model/plot.png" width="300" height="300" />
-  <img src="./Project/ResNet18Model/ConfusionMatrix.png" width="300" height="300" /> 
+  <img src="ResNet18Model/plot.png" width="300" height="300" />
+  <img src="ResNet18Model/ConfusionMatrix.png" width="300" height="300" /> 
 </p>
 Final Test Accuracy = 0.6159097241571468
 
 ### VGG13
 <p float="left">
-  <img src="./Project/VGG13Model/plot.png" width="300" height="300" />
-  <img src="./Project/VGG13Model/ConfusionMatrix.png" width="300" height="300" /> 
+  <img src="VGG13Model/plot.png" width="300" height="300" />
+  <img src="VGG13Model/ConfusionMatrix.png" width="300" height="300" /> 
 </p>
 Final Test Accuracy = 0.6882139871830594
 
 ### FaceNet
 <p float="left">
-  <img src="./Project/FaceNetModel/plot.png" width="300" height="300" />
-  <img src="./Project/FaceNetModel/ConfusionMatrix.png" width="300" height="300" /> 
+  <img src="FaceNetModel/plot.png" width="300" height="300" />
+  <img src="FaceNetModel/ConfusionMatrix.png" width="300" height="300" /> 
 </p>
 Final Test Accuracy = 0.659375870716077
 

@@ -9,11 +9,9 @@ from HowIFeel import HowIFeel
 import torch.nn.functional as nnf
 import tools
 import numpy as np
-import argparse
 import torch
 import cv2
 import Config as cfg
-from ffpyplayer.player import MediaPlayer
 import time
 
 # initialize the argument parser and establish the arguments required
