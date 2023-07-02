@@ -113,7 +113,7 @@ Final Test Accuracy = 0.6882139871830594
   <img src="FaceNetModel/plot.png" width="300" height="300" />
   <img src="FaceNetModel/ConfusionMatrix.png" width="300" height="300" /> 
 </p>
-Final Test Accuracy = 0.659375870716077
+Final Test Accuracy = 0.703
 
 ## Refrences
 [1] FER-2013 Dataset: https://www.kaggle.com/datasets/msambare/fer2013
