@@ -66,7 +66,7 @@ VAL_SIZE = 0.10
 
 # Training Parameters:
 BATCH_SIZE = 64
-NUM_OF_EPOCHS = 1
+NUM_OF_EPOCHS = 100
 LR = 0.01
 MOMENTUM = 0.9
 DROPOUT = 0.1
@@ -105,7 +105,7 @@ ENSEMBLE_MODEL_1 = VGG_13
 ENSEMBLE_MODEL_2 = RES_NET_18
 
 # Detect From Video
-VIDEO_PATH = './Videos/TheDeparted.mp4'
+VIDEO_PATH = './Videos/Nir.mp4'
 CAFFE_MODEL = './faceDetection/weights.caffemodel'
 FACE_DETECTION = './faceDetection/architecture.txt'
 TRAINED_MODEL = './VGG13Model/model.pth'
